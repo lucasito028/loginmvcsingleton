@@ -1,0 +1,14 @@
+{
+    "description": "Login and PHP with Composer",
+    "authors": [{
+        "name": "Ito",
+        "email": "mxpotatosred123@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Sts\\": "app",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}
